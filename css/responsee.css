@@ -138,7 +138,11 @@ ul.chevron .submenu > a:after, ul.chevron .sub-submenu > a:after,ul.chevron .asi
 .aside-nav > ul > li.active-item > a:link, .aside-nav > ul > li.active-item > a:visited {
   background:none repeat scroll 0 0 #999;
   color:#fff;
-} 
+}
+.contact-item {
+  display: block;
+  margin: .5em 0;
+}
 @media screen and (min-width:769px) {
   .aside-nav .count-number {
 	 margin-left:-1.25em;	
