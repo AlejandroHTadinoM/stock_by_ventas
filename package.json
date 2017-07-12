@@ -1,0 +1,22 @@
+{
+  "name": "plantilla2",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --config bs-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandroHTadinoM/plantilla_micro_2.git"
+  },
+  "author": "Alejandro H Tadino M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejandroHTadinoM/plantilla_micro_2/issues"
+  },
+  "homepage": "https://github.com/AlejandroHTadinoM/plantilla_micro_2#readme",
+  "dependencies": {
+    "browser-sync": "^2.18.12"
+  }
+}
