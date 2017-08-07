@@ -527,15 +527,23 @@ nav {
   font-size: 1.6em;
   box-shadow: 0 0 14px rgba(0, 0, 0, .4)
 }
-
 .icon {
   color: #4a4a4a;
   font-size: 2em;
   display: inline-block;
 }
-
 .contact-item p {
   display: inline-block;
   margin-left: .5em;
   vertical-align: middle;
+}
+table {
+  width: 100%;
+  border: none;
+}
+table h4 {
+  font-weight: 700;
+}
+table th {
+  text-align: center;
 }
