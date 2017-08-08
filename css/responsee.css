@@ -496,8 +496,8 @@ nav {
   margin: 2rem auto;
 }
 .card img {
-  width: 100%;
-  height: 100%;
+  width: 210px;
+  height: 260px;
 }
 .card figure {
   width: 100%;
@@ -510,7 +510,7 @@ nav {
   bottom: 0;
   width: 100%;
   height: 30%;
-  background-color: #FAFAFA;
+  background-color: #F0F0F0;
   padding: 1rem;
 }
 .icon-check {

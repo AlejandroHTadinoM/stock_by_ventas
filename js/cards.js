@@ -7,4 +7,3 @@ function resizeCards () {
 }
 
 $(window).resize(resizeCards());
-resizeCards();
