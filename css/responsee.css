@@ -11,8 +11,10 @@
   margin:0;	
   }
 body {
-  background-image: url("../img/bg.png");
-  background-repeat: repeat;
+  background-image: url("../img/box-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
   font-size:100%;
   font-family:"Open Sans",Arial,sans-serif;
   color:#444;
@@ -546,4 +548,9 @@ table h4 {
 }
 table th {
   text-align: center;
+}
+
+.box-bg {
+  background: url("../img/box-bg.jpg");
+  background-size: cover;
 }
